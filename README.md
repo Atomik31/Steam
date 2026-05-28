@@ -1,3 +1,5 @@
+![Steam](Steam_logo.png)
+
 # Steam — Analyse du marché des jeux vidéo
 
 Projet réalisé dans le cadre du bloc 2 de la certification CDSD (Jedha).
