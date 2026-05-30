@@ -52,14 +52,33 @@ s3://full-stack-bigdata-datasets/Big_Data/Project_Steam/steam_game_output.json
 ```
 Steam/
 ├── data/
-│   └── raw/               # Dataset JSON (~61 MB)
+│   ├── raw/
+│   │   └── steam_game_output.json   # Dataset (~61 MB)
+│   └── processed/
 ├── docs/
 │   └── consignes.md
 ├── notebooks/
-│   ├── steam_pyspark.ipynb  # Notebook Databricks (PySpark) — livrable principal
-│   └── steam.ipynb          # Version locale exploratoire (Pandas/Plotly)
+│   ├── steam_pyspark.ipynb          # Notebook Databricks (PySpark) — livrable principal
+│   └── steam.ipynb                  # Version locale exploratoire (Pandas/Plotly)
 ├── reports/
 │   └── figures/
+│       ├── 01_top_publishers.png
+│       ├── 02_top_rated_ratio.png
+│       ├── 03_top_rated_volume.png
+│       ├── 04_releases_by_year.png
+│       ├── 05_free_vs_paid.png
+│       ├── 06_price_distribution.png
+│       ├── 07_promotions.png
+│       ├── 08_top_languages.png
+│       ├── 09_age_restriction.png
+│       ├── 10_top_genres.png
+│       ├── 11_genre_review_ratio.png
+│       ├── 12_publisher_genres.png
+│       ├── 13_genre_price_vs_popularity.png
+│       ├── 14_platforms.png
+│       ├── 15_platform_combos.png
+│       └── 16_genre_by_platform.png
+├── requirements.txt
 └── README.md
 ```
 
