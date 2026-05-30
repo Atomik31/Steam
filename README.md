@@ -1,4 +1,4 @@
-![Steam](Steam_logo.png)
+![Steam](Steam_logo.jpg)
 
 # Steam — Analyse du marché des jeux vidéo
 
