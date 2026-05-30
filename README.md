@@ -8,7 +8,7 @@ Projet réalisé dans le cadre du bloc 2 de la certification CDSD (Jedha).
 
 ## Livrable Databricks
 
-> https://dbc-1c28fa48-0684.cloud.databricks.com/editor/notebooks/3899804356778133?o=3008415357916144
+> https://dbc-1c28fa48-0684.cloud.databricks.com/browse/folders/723727034928580?o=3008415357916144
 
 ---
 
